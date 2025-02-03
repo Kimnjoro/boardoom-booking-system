@@ -1,1 +1,24 @@
-I developed a **Boardroom Booking System** designed to simplify the scheduling and management of meeting spaces. The system enables users to view available boardrooms, book slots seamlessly, and receive instant confirmations. It includes features such as calendar integration, conflict detection to avoid double bookings, and user authentication for secure access. The backend, built with PHP and MySQL, ensures efficient data handling, while the frontend offers a user-friendly interface for smooth navigation. This project streamlined operations, improved resource utilization, and enhanced the overall booking experience for users.
+# 📅 Boardroom Booking System
+
+The **Boardroom Booking System** is designed to simplify the scheduling and management of meeting spaces, ensuring an efficient and seamless booking experience.
+
+## 🔹 Key Features
+- **🗓 View Availability:** Check available boardrooms in real time.
+- **✅ Easy Booking:** Reserve meeting slots effortlessly with instant confirmation.
+- **⚠️ Conflict Detection:** Avoid double bookings with built-in scheduling conflict checks.
+- **🔒 Secure Access:** User authentication ensures only authorized bookings.
+- **📆 Calendar Integration:** Sync bookings with your calendar for better planning.
+
+## 💻 Technology Stack
+- **Backend:** PHP & MySQL for efficient data management.
+- **Frontend:** Intuitive UI with smooth navigation.
+- **Security:** User authentication for controlled access.
+
+This system enhances operational efficiency, optimizes resource utilization, and improves the overall booking experience for users.
+
+---
+
+☕ **Support My Work**  
+If you find this project helpful, consider supporting me:
+- [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername) ☕
+- **Bitcoin Donations:** `YourBitcoinWalletAddress` ₿
