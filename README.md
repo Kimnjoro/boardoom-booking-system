@@ -21,4 +21,5 @@ This system enhances operational efficiency, optimizes resource utilization, and
 ☕ **Support My Work**  
 If you find this project helpful, consider supporting me:
 - [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername) ☕
+- [Paypal](https://www.paypal.com/kimaninjoroge04) ☕
 - **Bitcoin Donations:** `YourBitcoinWalletAddress` ₿
